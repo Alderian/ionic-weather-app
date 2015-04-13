@@ -1,3 +1,5 @@
+See tutotial [here](http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107)
+
 Ionic App Base
 =====================
 
